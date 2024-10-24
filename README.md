@@ -32,6 +32,6 @@
 ###
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=fahsAli&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
