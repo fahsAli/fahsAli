@@ -11,7 +11,7 @@
 ###
 
 - ✨ Creating bugs since 2019
-- 📚 I'm currently learning ASP.NET, Angular, and agent-based AI.
+- 📚 I'm currently learning ASP.NET and agent-based AI.
 - 🎯 Goals: To be a successful developer and contribute to innovative tech solutions.
 - 📫 Contact me: [fahs.ali@outlook.com](mailto:fahs.ali@outlook.com) (personal)
 ###
@@ -20,14 +20,14 @@
 
 ###
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,java,python,php,js,ts,swift,kotlin)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,java,python,php,html,css,js,ts,swift,kotlin)](https://skillicons.dev)
 
 ###
 
 <h2 align="left">Frameworks, Databases, and DevOps Tools</h2>
 
 ###
-[![My Skills](https://skillicons.dev/icons?i=nodejs,react,vuejs,nestjs,adonis,prisma,flask,mysql,postgresql,mongodb,redis,pytorch,git,github,gitlab,docker,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,react,vuejs,angular,bootstrap,nestjs,adonis,spring,prisma,flask,mysql,postgresql,sqlite,mongodb,redis,pytorch,tensorflow,git,github,gitlab,bitbucket,docker,azure,bash,linux,qt)](https://skillicons.dev)
 
 ###
 
